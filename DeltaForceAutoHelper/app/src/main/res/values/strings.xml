@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">三角洲特勤处助手</string>
+    <string name="accessibility_service_label">三角洲特勤处自动点击服务</string>
+    <string name="accessibility_service_desc">用于定时打开《三角洲行动》，自动关闭弹窗、进入特勤处领取已完成制造物品并重新开始制造。</string>
+    <string name="title_calibration">坐标与延时微调</string>
+</resources>
